@@ -4,4 +4,4 @@
 
 - invite me [invite bot](https://discord.com/api/oauth2/authorize?client_id=821544166877298688&permissions=8&scope=bot
 )
-- Support server [https://cdn.discordapp.com/emojis/856406341240094760.gif?v=1 support server](https://discord.gg/4mphTx78nf)
+- Support server [support server](https://discord.gg/4mphTx78nf) <img src="https://cdn.discordapp.com/emojis/856406341240094760.gif?v=1" width="22px">
